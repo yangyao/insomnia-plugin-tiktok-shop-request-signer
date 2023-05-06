@@ -1,0 +1,25 @@
+{
+  "name": "insomnia-plugin-tiktok-shop-request-signer",
+  "version": "1.0.0",
+  "description": "Generate hmac sign for tiktok shop api request",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"No build required\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "insomnia": {
+    "name": "tiktok-shop-request-signer",
+    "description": "Generate hmac sign for tiktok shop api request"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangyao/insomnia-plugin-tiktok-shop-request-signer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangyao/insomnia-plugin-tiktok-shop-request-signer/issues"
+  },
+  "homepage": "https://github.com/yangyao/insomnia-plugin-tiktok-shop-request-signer#readme"
+}
